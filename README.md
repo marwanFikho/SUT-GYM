@@ -6,6 +6,7 @@ This GYM system still under construction...
 1) Admin page
   - Add/edit/delete users
   - View Users
+  - 
 2) User page
   - Add attendence
   - Manage freezes
