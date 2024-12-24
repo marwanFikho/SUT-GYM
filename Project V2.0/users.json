@@ -1,0 +1,72 @@
+{
+    "40733": {
+        "username": "Marwan El-Fakharany",
+        "password": "marwan123",
+        "age": "19",
+        "gender": "Male",
+        "phone": "01001788267",
+        "activity": "GYM",
+        "amount_to_pay": 4000,
+        "paid_amount": 2000,
+        "subscription_date": "2024-12-18",
+        "subscription_duration": 12,
+        "expiry_date": "2026-05-12",
+        "active_status": "Active"
+    },
+    "72219": {
+        "username": "Oufa",
+        "password": "oufa123",
+        "age": 19,
+        "gender": "Male",
+        "phone": "01237366499",
+        "activity": "GYM",
+        "amount_to_pay": 3500,
+        "paid_amount": 2000,
+        "subscription_date": "2024-12-01",
+        "subscription_duration": 5,
+        "expiry_date": "2025-04-30",
+        "active_status": "Active"
+    },
+    "29398": {
+        "username": "Sofia",
+        "password": "soso",
+        "age": 19,
+        "gender": "Female",
+        "phone": "01002377867",
+        "activity": "SCOBA",
+        "amount_to_pay": 4000,
+        "paid_amount": 1500,
+        "subscription_date": "2024-12-05",
+        "subscription_duration": 12,
+        "expiry_date": "2025-11-30",
+        "active_status": "Active"
+    },
+    "61223": {
+        "username": "Maryam",
+        "password": "mary",
+        "age": 18,
+        "gender": "Female",
+        "phone": "01223477238",
+        "activity": "Balle",
+        "amount_to_pay": 2000,
+        "paid_amount": 200,
+        "subscription_date": "2024-12-11",
+        "subscription_duration": 5,
+        "expiry_date": "2025-05-10",
+        "active_status": "Active"
+    },
+    "99705": {
+        "username": "Ahmed Metawly",
+        "password": "mido",
+        "age": 22,
+        "gender": "Male",
+        "phone": "01221299287",
+        "activity": "GYM",
+        "amount_to_pay": 2000,
+        "paid_amount": 0,
+        "subscription_date": "2024-11-30",
+        "subscription_duration": 15,
+        "expiry_date": "2026-02-23",
+        "active_status": "Active"
+    }
+}
